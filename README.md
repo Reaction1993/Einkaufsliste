@@ -15,3 +15,11 @@
 * ***E-Mail***: *.*@*.de
 
 * [Link zu Google!] (https://google.de)
+
+## Bildungsweg
+
+|         |           |   
+| ------------- |:-------------:|
+| xxxx - xxxx      | Mittlere Reife |
+| xxxx - xxxx      | Fachhochschulreife      |
+| seit 20xx | HFU, AIN Studiengang      |
