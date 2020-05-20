@@ -2,6 +2,8 @@
 
 ## Lebenslauf
 
+![Beispielfoto](https://www.gematik.de/fileadmin/user_upload/MediaUploads/EGK_G21_CL_kontaktlos_neues_gematik-Logo_1_.jpg)
+
 * ***Name:*** Sascha S.
 
 * ***Geboren am***: 26.01.1880 in Karlsruhe
@@ -23,3 +25,5 @@
 | xxxx - xxxx      | Mittlere Reife |
 | xxxx - xxxx      | Fachhochschulreife      |
 | seit xxxx | HFU Furtwangen      |
+
+
