@@ -18,8 +18,8 @@
 
 ## Bildungsweg
 
-|         |           |   
+| Jahrgang |           |   
 | ------------- |:-------------:|
 | xxxx - xxxx      | Mittlere Reife |
 | xxxx - xxxx      | Fachhochschulreife      |
-| seit 20xx | HFU, AIN Studiengang      |
+| seit xxxx | HFU Furtwangen      |
