@@ -18,7 +18,7 @@
 
 ## Bildungsweg
 
-| Jahrgang |           |   
+| Jahr | Schulart |   
 | ------------- |:-------------:|
 | xxxx - xxxx      | Mittlere Reife |
 | xxxx - xxxx      | Fachhochschulreife      |
